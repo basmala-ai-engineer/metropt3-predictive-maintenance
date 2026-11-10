@@ -1,2 +1,2 @@
-# Smart-Factory-Predictive-Maintenance
-An AI-powered Smart Factory Predictive Maintenance System integrating IoT, Machine Learning, Deep Learning, MLflow, and Generative AI (LLM-based Chatbot) to predict equipment failures, explain predictions, and provide intelligent maintenance recommendations.
+# metropt3-predictive-maintenance
+An AI-powered predictive maintenance system for industrial air compressors using MetroPT-3 sensor data, machine learning, and deep learning techniques.
